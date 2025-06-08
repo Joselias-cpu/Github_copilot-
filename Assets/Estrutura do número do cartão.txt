@@ -1,0 +1,28 @@
+﻿Estrutura do número do cartão
+O número de um cartão de crédito ou débito possui uma estrutura específica que é padronizada mundialmente.
+Geralmente, os números dos cartões possuem 16 dígitos, embora algumas bandeiras como American Express utilizem 15 dígitos. Esses números não são aleatórios; cada dígito tem um propósito.
+* Primeiro dígito (Identificador de Indústria Principal – MII): O primeiro dígito indica o setor da instituição financeira. Por exemplo:
+* 1 e 2 representam companhias aéreas.
+* 3 indica um cartão de viagens ou entretenimento, como American Express.
+* 4 e 5 são reservados para instituições financeiras (Visa e MasterCard, por exemplo).
+* 6 é usado por bancos e instituições de comércio.
+* Primeiros 6 dígitos (BIN – Bank Identification Number): Os primeiros seis dígitos representam o BIN, que identifica a instituição emissora do cartão. É a partir desses números que se pode saber a bandeira do cartão e, em alguns casos, o país de emissão e o tipo de cartão.
+* Dígitos do meio: Após o BIN, os próximos dígitos, até o penúltimo, são específicos para cada cliente e são usados pela instituição para diferenciar as contas de seus clientes.
+* Último dígito (Dígito verificador): Esse dígito é gerado por meio de um cálculo matemático chamado “Algoritmo de Luhn”. Ele é usado para verificar a validade do número do cartão.
+Principais bandeiras de cartão e seus identificadores numéricos
+Cada bandeira de cartão segue um padrão específico de BIN, que facilita a identificação da marca do cartão.
+Abaixo estão algumas das bandeiras mais comuns e seus identificadores iniciais:
+* Visa: Começa sempre com o número 4;
+* MasterCard: Inicia com dígitos entre 51 e 55, ou ainda com a faixa de 2221 a 2720;
+* American Express: Inicia com 34 ou 37;
+* Discover: Começa com 6011, 65, ou com a faixa de 644 a 649;
+* Elo: Pode começar com vários intervalos, incluindo 4011, 4312, 4389, entre outros;
+* Hipercard: Geralmente começa com 6062.
+Como descobrir a bandeira do cartão com segurança
+Identificar a bandeira do cartão de crédito ou débito de forma segura é essencial para garantir a privacidade e a proteção de seus dados pessoais.
+Existem algumas maneiras seguras e confiáveis de fazer essa verificação sem colocar sua segurança em risco.
+Primeiramente, você pode utilizar o próprio site do banco emissor ou aplicativos financeiros confiáveis que identificam a bandeira do cartão apenas com os primeiros números, conhecidos como BIN (Bank Identification Number).
+Para verificar a bandeira com segurança:
+* Utilize o aplicativo do banco emissor: a maioria dos aplicativos bancários exibe informações detalhadas do cartão, incluindo a bandeira;
+* Acesse ferramentas de verificação de BIN: existem plataformas online especializadas em identificar informações de cartões com base no BIN. certifique-se de escolher sites confiáveis e reconhecidos no mercado;
+* Evite compartilhar o número completo do cartão: nunca informe o número completo do seu cartão em sites não verificados ou redes sociais, pois isso pode comprometer sua segurança.
